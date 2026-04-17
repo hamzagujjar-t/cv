@@ -1,4 +1,4 @@
-<header style="display: flex; justify-content: space-between; align-items: center; padding: 40px;">
+<header style="display: flex; justify-content: space-between;  ">
 
   <!-- Left side (text) -->
   <div>
