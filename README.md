@@ -59,18 +59,21 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * 30 comments per month
 * 1 account
 * 1 comment per day
-
+* Price: 300$
+  
 ### Advanced Package
 
 * 60 comments per month
 * 2 accounts
 * 2 comments per day
+* Price: 500$
 
 ### Premium Package
 
 * 100 comments per month
 * 10 accounts
 * 10 comments per day
+* Price: 750$
 
 ---
 
