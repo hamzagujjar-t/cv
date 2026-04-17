@@ -6,7 +6,7 @@
     <b>Reddit Marketing Specialist | Organic Growth Strategist</b>
   </div>
 
- 
+   <!-- Right side (image) -->
   <img src="11.png" alt="Hamza Gujjar"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
 
