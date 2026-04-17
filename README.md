@@ -1,7 +1,15 @@
-<header>
-  <img src="profile.jpg" alt="Hamza Gujjar" width="150" style="border-radius: 50%;">
-  <h1>Hamza Gujjar</h1>
-  <p>Reddit Marketing Expert</p>
+<header style="display: flex; justify-content: space-between; align-items: center; padding: 40px;">
+
+  <!-- Left side (text) -->
+  <div>
+    <h1>Hi, I'm Hamza Gujjar</h1>
+    <p>Reddit Marketing Expert</p>
+  </div>
+
+  <!-- Right side (image) -->
+  <img src="7a0682e1-e6f3-4939-b018-4135b92847d0.jpg" alt="Hamza Gujjar"
+       style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+
 </header>
 
 <b>Reddit Marketing Specialist | Organic Growth Strategist</b>
