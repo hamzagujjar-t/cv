@@ -3,7 +3,7 @@
   <!-- Left side (text) -->
   <div>
     <h1>Hamza Gujjar</h1>
-    <p>Reddit Marketing Expert</p>
+    <b>Reddit Marketing Specialist | Organic Growth Strategist</b>
   </div>
 
  
@@ -12,7 +12,7 @@
 
 </header>
 
-<b>Reddit Marketing Specialist | Organic Growth Strategist</b>
+
 
 📱 WhatsApp: +92 347 4095361
 📧 Email: [bravejava@yahoo.com](mailto:bravejava@yahoo.com)
