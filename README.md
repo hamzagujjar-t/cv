@@ -2,11 +2,11 @@
 
   <!-- Left side (text) -->
   <div>
-    <h1>Hi, I'm Hamza Gujjar</h1>
+    <h1>Hamza Gujjar</h1>
     <p>Reddit Marketing Expert</p>
   </div>
 
-  <!-- Right side (image) -->
+ 
   <img src="7a0682e1-e6f3-4939-b018-4135b92847d0.jpg" alt="Hamza Gujjar"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
 
