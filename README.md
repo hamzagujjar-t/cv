@@ -14,9 +14,7 @@
 
 
 
-📱 WhatsApp: +923474095361 (<a href="https://wa.me/923474095361" target="_blank">
-  Chat on WhatsApp
-</a>)
+📱 WhatsApp: +923474095361 (<a href="https://wa.me/923474095361" target="_blank">Chat on WhatsApp</a>)
 📧 Email: [bravejava@yahoo.com](mailto:bravejava@yahoo.com)
 
 ---
