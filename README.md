@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hamza Gujjar | Reddit Marketing Expert</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      background: #111;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    header p {
+      font-size: 18px;
+      margin-top: 10px;
+      color: #ccc;
+    }
+
+    section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .packages {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .card h3 {
+      margin-top: 0;
+      color: #111;
+    }
+
+    .price {
+      font-size: 22px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    .contact {
+      text-align: center;
+      background: #111;
+      color: #fff;
+      padding: 40px 20px;
+    }
+
+    a {
+      color: #00bcd4;
+      text-decoration: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      background: #222;
+      color: #aaa;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Hi, I'm Hamza Gujjar</h1>
+  <p>Reddit Marketing Expert</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am a Reddit marketing expert, working with companies like 
+    <a href="https://cidesigninc.com" target="_blank">cidesigninc.com</a>.  
+    I find relevant discussions and naturally mention businesses and their services in an engaging way.
+  </p>
+
+  <p>
+    I use 1+ year aged Reddit accounts with 200+ comment karma. All comments are manually written — no AI copy-paste — ensuring authentic engagement, upvotes, and replies.
+  </p>
+
+  <p>
+    Reddit works because it reaches people actively searching for recommendations. Instead of ads, your product is introduced naturally in conversations, building trust and influencing buying decisions.
+  </p>
+
+  <p>
+    Comments can stay visible for months and even rank on Google, giving long-term exposure.
+  </p>
+</section>
+
+<section>
+  <h2>Packages</h2>
+
+  <div class="packages">
+
+    <div class="card">
+      <h3>Basic</h3>
+      <p>30 Comments Monthly</p>
+      <p>Using 1 Account</p>
+      <p>1 Comment Each Day</p>
+      <div class="price">$300</div>
+    </div>
+
+    <div class="card">
+      <h3>Advanced</h3>
+      <p>60 Comments Monthly</p>
+      <p>Using 2 Accounts</p>
+      <p>2 Comments Each Day</p>
+      <div class="price">$500</div>
+    </div>
+
+    <div class="card">
+      <h3>Premium</h3>
+      <p>100 Comments Monthly</p>
+      <p>Using 10 Accounts</p>
+      <p>10 Comments Each Day</p>
+      <div class="price">$750</div>
+    </div>
+
+  </div>
+</section>
+
+<section class="contact">
+  <h2>Contact Me</h2>
+  <p>📱 WhatsApp: <a href="https://wa.me/923474095361">+92 347 4095361</a></p>
+  <p>📧 Email: <a href="mailto:bravejava@yahoo.com">bravejava@yahoo.com</a></p>
+</section>
+
+<footer>
+  <p>© 2026 Hamza Gujjar. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
