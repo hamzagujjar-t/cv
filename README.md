@@ -7,7 +7,7 @@
   </div>
 
  
-  <img src="7a0682e1-e6f3-4939-b018-4135b92847d0.jpg" alt="Hamza Gujjar"
+  <img src="11.png" alt="Hamza Gujjar"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
 
 </header>
