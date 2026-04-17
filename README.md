@@ -1,4 +1,8 @@
-# Hamza Gujjar
+<header>
+  <img src="profile.jpg" alt="Hamza Gujjar" width="150" style="border-radius: 50%;">
+  <h1>Hamza Gujjar</h1>
+  <p>Reddit Marketing Expert</p>
+</header>
 
 <b>Reddit Marketing Specialist | Organic Growth Strategist</b>
 
