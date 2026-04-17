@@ -1,6 +1,6 @@
 # Hamza Gujjar
 
-**Reddit Marketing Specialist | Organic Growth Strategist**
+<b>Reddit Marketing Specialist | Organic Growth Strategist</b>
 
 📱 WhatsApp: +92 347 4095361
 📧 Email: [bravejava@yahoo.com](mailto:bravejava@yahoo.com)
