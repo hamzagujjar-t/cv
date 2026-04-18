@@ -71,21 +71,24 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * 30 comments per month
 * 1 account
 * 1 comment per day
-* Price: 300$
+* <b>Price: 300$</b>
+* <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
   
 ### Advanced Package
 
 * 60 comments per month
 * 2 accounts
 * 2 comments per day
-* Price: 500$
+* <b>Price: 500$</b>
+* <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
 
 ### Premium Package
 
 * 100 comments per month
 * 10 accounts
 * 10 comments per day
-* Price: 750$
+* <b>Price: 750$</b>
+* <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
 
 ---
 
