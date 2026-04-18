@@ -44,7 +44,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 **Freelance / Independent Consultant**
 *2010 – Present*
 
-* Executed targeted Reddit marketing campaigns for multiple businesses including client brands such as cidesigninc.com
+* Executed targeted Reddit marketing campaigns for multiple businesses including client brands
 * Identified high-intent discussions across relevant subreddits to position products/services naturally
 * Delivered consistent monthly engagement using aged accounts (1+ year old, 200+ karma)
 * Produced manually written, high-quality comments that generated organic upvotes and replies
