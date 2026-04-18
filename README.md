@@ -80,7 +80,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * 2 accounts
 * 2 comments per day
 * <b>Price: 500$</b>
-* <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
+* <a href="https://buy.stripe.com/8x2dR9g3o0vA7K46d4fMA01" target="_blank" >Order</a>
 
 ### Premium Package
 
@@ -88,7 +88,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * 10 accounts
 * 10 comments per day
 * <b>Price: 750$</b>
-* <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
+* <a href="https://buy.stripe.com/3cI4gzcRcguy4xS44WfMA02" target="_blank" >Order</a>
 
 ---
 
