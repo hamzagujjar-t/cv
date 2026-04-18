@@ -66,7 +66,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 
 ## Services Offered
 
-### Basic Package
+### Basic
 
 * 30 comments per month
 * 1 account
@@ -74,7 +74,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * <b>Price: 300$</b>
 * <a href="https://buy.stripe.com/dRmdR98AWguyd4oatkfMA00" target="_blank" >Order</a>
   
-### Advanced Package
+### Advanced
 
 * 60 comments per month
 * 2 accounts
@@ -82,7 +82,7 @@ Results-driven Reddit marketing expert with over a decade of experience (since 2
 * <b>Price: 500$</b>
 * <a href="https://buy.stripe.com/8x2dR9g3o0vA7K46d4fMA01" target="_blank" >Order</a>
 
-### Premium Package
+### Premium
 
 * 100 comments per month
 * 10 accounts
