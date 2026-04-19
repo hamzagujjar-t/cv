@@ -7,8 +7,8 @@
   </div>
 
    <!-- Right side (image) -->
-  <img src="480x611.jpg" alt="Hamza Gujjar"
-       style="width:150px; height:150px; border-radius:30%; object-fit:cover;">
+  <img src="image.png" alt="Hamza Gujjar"
+       style="width:150px; height:150px; border-radius:40%; object-fit:cover;">
 
 </header>
 
