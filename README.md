@@ -7,7 +7,7 @@
   </div>
 
    <!-- Right side (image) -->
-  <img src="11.png" alt="Hamza Gujjar"
+  <img src="480x611.jpg" alt="Hamza Gujjar"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
 
 </header>
